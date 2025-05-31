@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "dev.miami.nohitcrystalsound.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [],
+	"client": [
+		"ClientPlayerInteractionManagerMixin",
+		"SoundManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
